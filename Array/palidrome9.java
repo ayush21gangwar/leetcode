@@ -1,5 +1,5 @@
 import java.util.*;
-class Solution {
+class palindrome9 {
     public boolean isPalindrome(int x) {
         Scanner src= new Scanner(System.in);
         //int x= src.nextInt();
