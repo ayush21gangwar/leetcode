@@ -1,4 +1,4 @@
-class Solution {
+class prblm_728 {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> ans = new ArrayList<Integer>();
         boolean add;
