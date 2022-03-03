@@ -1,4 +1,4 @@
-class Solution {
+class prblm_414 {
     public int thirdMax(int[] nums) {
        Arrays.sort(nums);
         if(nums.length==2 || nums.length==1)
