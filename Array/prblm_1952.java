@@ -14,6 +14,6 @@ public class prblm_1952 {
         }
         return false;
     }
-}class prblm_1952 {
-    
 }
+    
+
