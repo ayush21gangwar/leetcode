@@ -8,6 +8,4 @@ class prblm_1844 {
         return new String(res);
         
     }
-}public class prblm_1844 {
-    
 }
